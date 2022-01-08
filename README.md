@@ -1,6 +1,6 @@
-# Jedis-Demo
+# Jedis
 
-Jedis-Demo
+Jedis
 
 Preliminary study of Jedis!
 
